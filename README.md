@@ -5,9 +5,10 @@ Clarus Obvious, Minimal Language.
 
 By Jeremy Clermont.
 
+> This repository contains the in-development version of COML specification.
 ## Example
 
-```coml
+```
 #! This is a COML document.
 
 title = "COML EXAMPLE"
